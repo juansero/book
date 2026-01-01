@@ -31,7 +31,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers
 
 ## Licencia y atribución
 
-Repositorio creado a partir del manuscrito original. Para referencia del archivo fuente, ver: fileciteturn4file0.
+Repositorio del libro original. Para referencia del mismo, ver: https://www.amazon.es/dp/B0GDMKVZBK.
 
 Si vas a usar el contenido con fines comerciales por favor contacta con el autor para respetar derechos y condiciones.
 
