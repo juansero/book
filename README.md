@@ -6,15 +6,15 @@ This repository accompanies the book **"Artificial Intelligence with Python"** b
 ## Contents
 
 - `1_EDA.ipynb` — Exploratory Data Analysis (pandas, matplotlib, seaborn): Examples of histograms, boxplots, and heatmaps.
-- '2_Regression_Linear.ipynb' — Linear Regression with scikit-learn (simulated example).
-- '3_Classification_Tree.ipynb' — Simple Classification with DecisionTreeClassifier and tree visualization.
-- '4_NN_Keras_MLP.ipynb' — Simple Neural Network with TensorFlow/Keras (educational example).
-- '5_Diffusion_Toy_Denoising_AE.ipynb' — Educational demo: Denoising autoencoder illustrating the concept of "removing noise" (related to diffusion models).
-- '6_Transformers_Intro.ipynb' — Tokenization Example / Transformers pipeline (requires installing transformers).
+- `2_Regression_Linear.ipynb`' — Linear Regression with scikit-learn (simulated example).
+- `3_Classification_Tree.ipynb` — Simple Classification with DecisionTreeClassifier and tree visualization.
+- `4_NN_Keras_MLP.ipynb` — Simple Neural Network with TensorFlow/Keras (educational example).
+- `5_Diffusion_Toy_Denoising_AE.ipynb` — Educational demo: Denoising autoencoder illustrating the concept of "removing noise" (related to diffusion models).
+- `6_Transformers_Intro.ipynb` — Tokenization Example / Transformers pipeline (requires installing transformers).
 
 ## How to Use
 
-Recommended: Open in **Google Colab** or your local environment with Jupyter. For Colab, upload the notebook or create a new Colab and use 'File -> Upload notebook'.
+Recommended: Open in **Google Colab** or your local environment with Jupyter. For Colab, upload the notebook or create a new Colab and use `File -> Upload notebook.`
 
 Suggested Requirements:
 - Python 3.8+
