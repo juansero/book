@@ -1,4 +1,4 @@
-# IArtificial Intelligence with Python - Notebooks Repository
+# Artificial Intelligence with Python - Notebooks Repository
 
 This repository accompanies the book **"Artificial Intelligence with Python"** by Juan Sellés. It contains example notebooks extracted and adapted from the content of the book. The original images from the manuscript have not been modified..
 
