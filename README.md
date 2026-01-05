@@ -5,7 +5,7 @@ This repository accompanies the book **"Artificial Intelligence with Python"** b
 
 ## Contents
 
-- '1_EDA.ipynb' — Exploratory Data Analysis (pandas, matplotlib, seaborn): Examples of histograms, boxplots, and heatmaps.
+- `1_EDA.ipynb` — Exploratory Data Analysis (pandas, matplotlib, seaborn): Examples of histograms, boxplots, and heatmaps.
 - '2_Regression_Linear.ipynb' — Linear Regression with scikit-learn (simulated example).
 - '3_Classification_Tree.ipynb' — Simple Classification with DecisionTreeClassifier and tree visualization.
 - '4_NN_Keras_MLP.ipynb' — Simple Neural Network with TensorFlow/Keras (educational example).
