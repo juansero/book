@@ -28,6 +28,13 @@ Quick Installation (Local Environment):
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers
 ```
 
+## 📚 Find the Book / Encuentra el libro
+You can purchase the book in **English** or **Spanish** using the following links:
+
+🔗 [English book](https://www.amazon.es/dp/B0GDMKVZBK)
+
+🔗 [Versión en Español](https://www.amazon.es/dp/B0GDMKVZBK)
+
 ## License and Attribution
 
 This repository is part of the original book. For reference, see: https://www.amazon.es/dp/B0GDMKVZBK.
