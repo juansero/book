@@ -31,6 +31,7 @@ If you are running the code locally, ensure you have Python 3.8+ installed. You 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers openai streamlit joblib
 ```
+(Note: Google Colab already has most of these pre-installed).
 
 ## 📚 Find the Book / Encuentra el libro
 You can purchase the book in **English** or **Spanish** using the following links:
