@@ -29,7 +29,8 @@ This repository accompanies the book **"Artificial Intelligence with Python"** b
 
 If you are running the code locally, ensure you have Python 3.8+ installed. You can install all necessary libraries with a single command:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers openai streamlit joblib```
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers openai streamlit joblib
+```
 
 ## 📚 Find the Book / Encuentra el libro
 You can purchase the book in **English** or **Spanish** using the following links:
