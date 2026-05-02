@@ -15,21 +15,21 @@ This repository accompanies the book **"Artificial Intelligence with Python"** b
 - `8_generative_ai.ipynb` — Overview and extra exercises related to the Generative AI concepts explained in the book.
 - `📁 app_streamlit/` — Final Project Folder: Contains train_model.py and app.py to train a model and deploy it as a web application using Streamlit.
 
-## How to Use
+## 🚀 How to Use
 
-Recommended: Open in **Google Colab** or your local environment with Jupyter. For Colab, upload the notebook or create a new Colab and use `File -> Upload notebook.`
+**For Jupyter Notebooks (`.ipynb` files):**
+*   **Recommended:** Open them directly in **Google Colab** (no installation required). You can simply replace `github.com` with `colab.research.google.com/github` in the URL of any notebook file.
+*   **Local Environment:** Open them using Jupyter Notebook, JupyterLab, or VS Code.
 
-Suggested Requirements:
-- Python 3.8+
-- pandas, numpy, matplotlib, seaborn
-- scikit-learn
-- tensorflow(for notebooks 4 and 5) — already available in Colab
-- transformers (optional, for notebook 6)
+**For Python Scripts (`.py` files):**
+*   Run them directly in your terminal/command prompt: `python nombre_del_archivo.py`
+*   To run the web app, navigate to the `app_streamlit/` folder and type: `streamlit run app.py`
 
-Quick Installation (Local Environment):
+## 🛠️ Requirements
+
+If you are running the code locally, ensure you have Python 3.8+ installed. You can install all necessary libraries with a single command:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers
-```
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers openai streamlit joblib
 
 ## 📚 Find the Book / Encuentra el libro
 You can purchase the book in **English** or **Spanish** using the following links:
