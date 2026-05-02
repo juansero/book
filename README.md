@@ -9,8 +9,11 @@ This repository accompanies the book **"Artificial Intelligence with Python"** b
 - `2_Regression_Linear.ipynb`' — Linear Regression with scikit-learn (simulated example).
 - `3_Classification_Tree.ipynb` — Simple Classification with DecisionTreeClassifier and tree visualization.
 - `4_NN_Keras_MLP.ipynb` — Simple Neural Network with TensorFlow/Keras (educational example).
-- `5_Diffusion_Toy_Denoising_AE.ipynb` — Educational demo: Denoising autoencoder illustrating the concept of "removing noise" (related to diffusion models).
-- `6_Transformers_Intro.ipynb` — Tokenization Example / Transformers pipeline (requires installing transformers).
+- `5_diffusion_simulation.py` — Educational demo: A step-by-step simulation of how a Diffusion Model removes noise from an image.
+- `6_transformers_sentiment.py` — Transformer (Reader): Using the Hugging Face pipeline with the BETO model for sentiment analysis in Spanish.
+- `7_chatgpt_api_assistant.py` — Transformer (Writer): Prompt Engineering and API connection to create a personalized ChatGPT assistant (Chef Yoda).
+- `8_generative_ai.ipynb` — Overview and extra exercises related to the Generative AI concepts explained in the book.
+- `📁 app_streamlit/` — Final Project Folder: Contains train_model.py and app.py to train a model and deploy it as a web application using Streamlit.
 
 ## How to Use
 
