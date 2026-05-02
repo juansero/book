@@ -1,52 +1,53 @@
-# Artificial Intelligence with Python - Notebooks Repository
+# Inteligencia Artificial con Python - Repositorio de Código
 
-This repository accompanies the book **"Artificial Intelligence with Python"** by Juan Sellés. It contains example notebooks extracted and adapted from the content of the book. The original images from the manuscript have not been modified..
+Este repositorio acompaña al libro **"Inteligencia Artificial con Python"** de Juan Ignacio Sellés. Contiene todos los ejemplos prácticos, scripts y notebooks extraídos directamente de los capítulos.
 
 
-## Contents
+## Contenido
 
-- `1_EDA.ipynb` — Exploratory Data Analysis (pandas, matplotlib, seaborn): Examples of histograms, boxplots, and heatmaps.
-- `2_Regression_Linear.ipynb`' — Linear Regression with scikit-learn (simulated example).
-- `3_Classification_Tree.ipynb` — Simple Classification with DecisionTreeClassifier and tree visualization.
-- `4_NN_Keras_MLP.ipynb` — Simple Neural Network with TensorFlow/Keras (educational example).
-- `5_diffusion_simulation.py` — Educational demo: A step-by-step simulation of how a Diffusion Model removes noise from an image.
-- `6_transformers_sentiment.py` — Transformer (Reader): Using the Hugging Face pipeline with the BETO model for sentiment analysis in Spanish.
-- `7_chatgpt_api_assistant.py` — Transformer (Writer): Prompt Engineering and API connection to create a personalized ChatGPT assistant (Chef Yoda).
-- `8_generative_ai.ipynb` — Overview and extra exercises related to the Generative AI concepts explained in the book.
-- `📁 app_streamlit/` — Final Project Folder: Contains train_model.py and app.py to train a model and deploy it as a web application using Streamlit.
+El repositorio está estructurado para seguir la progresión lógica del libro:
+*   **`1_EDA.ipynb`** — Análisis Exploratorio de Datos (*pandas, matplotlib, seaborn*): Ejemplos prácticos de histogramas, boxplots y mapas de calor de correlación.
+*   **`2_Regression_Linear.ipynb`** — Regresión Lineal con *scikit-learn* (predicción de salarios basada en la experiencia).
+*   **`3_Classification_Tree.ipynb`** — Clasificación Simple con *DecisionTreeClassifier* y visualización gráfica del árbol.
+*   **`4_NN_Keras_MLP.ipynb`** — Primera Red Neuronal con *TensorFlow/Keras* (clasificación de dígitos escritos a mano con MNIST).
+*   **`5_diffusion_simulation.py`** — Demo educativa: Una simulación paso a paso de cómo un Modelo de Difusión elimina el ruido de una imagen.
+*   **`6_transformers_sentiment.py`** — Transformer (Lector): Uso del `pipeline` de Hugging Face con el modelo BETO para análisis de sentimientos en español.
+*   **`7_chatgpt_api_assistant.py`** — Transformer (Escritor): Ingeniería de Prompts (Prompt Engineering) y conexión a la API para crear un asistente ChatGPT personalizado (Chef Yoda).
+*   **`8_generative_ai.ipynb`** — Resumen y ejercicios extra relacionados con los conceptos de IA Generativa explicados en el libro.
+*   **📁 `app_streamlit/`** — Carpeta del Proyecto Final: Contiene `train_model.py` y `app.py` para entrenar un modelo y desplegarlo como una aplicación web usando Streamlit.
 
-## 🚀 How to Use
+## 🚀 Cómo usarlo
 
-**For Jupyter Notebooks (`.ipynb` files):**
-*   **Recommended:** Open them directly in **Google Colab** (no installation required). You can simply replace `github.com` with `colab.research.google.com/github` in the URL of any notebook file.
-*   **Local Environment:** Open them using Jupyter Notebook, JupyterLab, or VS Code.
+**Para los Jupyter Notebooks (archivos `.ipynb`):**
+*   **Recomendado:** Ábrelos directamente en **Google Colab** (no requiere instalación). Simplemente puedes reemplazar `github.com` con `colab.research.google.com/github` en la URL de cualquier archivo notebook.
+*   **Entorno Local:** Ábrelos usando Jupyter Notebook, JupyterLab o VS Code.
 
-**For Python Scripts (`.py` files):**
-*   Run them directly in your terminal/command prompt: `python nombre_del_archivo.py`
-*   To run the web app, navigate to the `app_streamlit/` folder and type: `streamlit run app.py`
+**Para los Scripts de Python (archivos `.py`):**
+*   Ejecútalos directamente en tu terminal o línea de comandos: `python nombre_del_archivo.py`
+*   Para ejecutar la aplicación web, navega hasta la carpeta `app_streamlit/` y escribe: `streamlit run app.py`
 
-## 🛠️ Requirements
+## 🛠️ Requisitos
 
-If you are running the code locally, ensure you have Python 3.8+ installed. You can install all necessary libraries with a single command:
+Si vas a ejecutar el código localmente, asegúrate de tener instalado Python 3.8 o superior. Puedes instalar todas las librerías necesarias con un solo comando:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers openai streamlit joblib
 ```
-(Note: Google Colab already has most of these pre-installed).
+(Nota: Google Colab ya tiene la mayoría de estas librerías preinstaladas)..
 
 ## 📚 Find the Book / Encuentra el libro
-You can purchase the book in **English** or **Spanish** using the following links:
+Puedes adquirir el libro en Inglés o Español usando los siguientes enlaces:
 
 🔗 [English book](https://www.amazon.es/dp/B0GDMKVZBK)
 
 🔗 [Versión en Español](https://www.amazon.es/dp/B0GDMKVZBK)
 
-## License and Attribution
+## ⚖️ Licencia y Atribución
 
-This repository is part of the original book. For reference, see: https://www.amazon.es/dp/B0GDMKVZBK.
+Este repositorio es parte del contenido original del libro. Para referencia, visita: https://www.amazon.es/dp/B0GDMKVZBK.
 
-If you plan to use the content for commercial purposes, please contact the author to respect rights and conditions.
+Si planeas usar el contenido con fines comerciales, por favor contacta al autor para respetar los derechos y condiciones.
 
-## Contribuciones
+## 🤝 Contribuciones
 
-If you'd like to improve the notebooks (add tests, data, or improve visualizations), please open a pull request or an issue in the repository.
+Si te gustaría mejorar los ejemplos (añadir pruebas, datos o mejorar las visualizaciones), siéntete libre de abrir un pull request o un issue en el repositorio.
 
