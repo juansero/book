@@ -34,10 +34,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow transformers
 ```
 (Nota: Google Colab ya tiene la mayoría de estas librerías preinstaladas)..
 
-## 📚 Find the Book / Encuentra el libro
-Puedes adquirir el libro en Inglés o Español usando los siguientes enlaces:
-
-🔗 [English book](https://www.amazon.es/dp/B0GDMKVZBK)
+## 📚 Encuentra el libro
+Puedes adquirir el libro en usando los siguiente enlace:
 
 🔗 [Versión en Español](https://www.amazon.es/dp/B0GDMKVZBK)
 
